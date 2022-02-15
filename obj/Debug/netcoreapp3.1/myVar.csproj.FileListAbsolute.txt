@@ -1,0 +1,14 @@
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.csproj.AssemblyReference.cache
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.AssemblyInfoInputs.cache
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.AssemblyInfo.cs
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.csproj.CoreCompileInputs.cache
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.exe
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.deps.json
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.runtimeconfig.json
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.runtimeconfig.dev.json
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.dll
+C:\Users\Jaeger\source\repos\myVar\bin\Debug\netcoreapp3.1\myVar.pdb
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.dll
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.pdb
+C:\Users\Jaeger\source\repos\myVar\obj\Debug\netcoreapp3.1\myVar.genruntimeconfig.cache
